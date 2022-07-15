@@ -1,2 +1,2 @@
-# c38_enviar_a_alumno
-enviar archivos para que el modifique y trabaje la actividad correspondiente
+# C38RV_Código de referencia_carreras de autos
+Código de referencia
